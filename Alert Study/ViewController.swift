@@ -81,7 +81,7 @@ class ViewController: UIViewController {
         let tamamAction = UIAlertAction(title: "Tamam", style: .destructive){
             action in
             
-            print("Action SHeet : Tamam Tıklandı")
+            print("Action SHeet : Tamam Tıklandıı")
         }
         alertController.addAction(tamamAction)
         
